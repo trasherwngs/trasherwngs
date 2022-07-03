@@ -5,7 +5,7 @@ Hello, I'm Trasher 👨‍💻.
 
 @@I’m a full stack developer that loves everything about coding.@@
 - 🈸 Happiness is a butterfly.
-# 📖 How to reach me: Trasher#0001
+# 📖 How to reach me: Trasher#0001 or E-mail: trasherwngs@gmail.com
 ```
 
 ![javascript](https://xesque.rocketseat.dev/platform/tech/javascript.svg)
